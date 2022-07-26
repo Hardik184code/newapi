@@ -1,0 +1,84 @@
+[{
+		"id": 1,
+		"name": "Hardik",
+		"username": "Harry",
+		"email": "har12321@gmail.com",
+		"address": {
+			"city": "Surat",
+			"pincode": "395004"
+		},
+		"phone": "9773171451",
+		"state": "Gujarat",
+		"image": {
+			"one": "https://images.all-free-download.com/images/graphiclarge/desert_517344.jpg",
+			"two": ""
+		}
+	},
+	{
+		"id": 2,
+		"name": "Sushil",
+		"username": "Lalu",
+		"email": "",
+		"address": {
+			"city": "Bhavnagar",
+			"pincode": "398704"
+		},
+		"phone": "9016741022",
+		"state": "Maharastra",
+		"image": {
+			"one": "",
+			"two": "https://images.all-free-download.com/images/graphiclarge/orange_517335.jpg"
+		}
+	},
+	{
+		"id": 3,
+		"name": "Rahul",
+		"username": "",
+		"email": "rahul001@gmail.com",
+		"address": {
+			"city": "Ahemdabad",
+			"pincode": "392001"
+		},
+		"phone":"" ,
+		"state": "Punjab",
+		"image": {
+			"one": "https://images.all-free-download.com/images/graphiclarge/desert_highway_517354.jpg",
+			"two": ""
+		}
+	},
+	{
+		"id": 4,
+		"name": "Darshan",
+		"username": "Dee",
+		"email": "dee7979@gmail.com",
+		"address": {
+			"city": "Rajkot",
+			"pincode": "382009"
+		},
+		"phone":"",
+		"state": "",
+		"image": {
+			"one": "https://images.all-free-download.com/images/graphiclarge/desert_sunset_517345.jpg",
+			"two": "https://images.all-free-download.com/images/graphiclarge/desert_locust_517340.jpg"
+		}
+	},
+	{
+		"id": 5,
+		"name": "Gautam",
+		"username": "",
+		"email": "bhuro786@gmail.com",
+		"address": {
+			"city": "",
+			"pincode": "395005"
+		},
+		"phone": "8160101396",
+		"state": "Tamilnadu",
+		"image": {
+			"one": "",
+			"two": "https://images.all-free-download.com/images/graphicwebp/after_the_storm_517372.webp"
+		}
+	}
+]
+
+
+                      link :-           https://webhook.site/e10e5960-f5ae-45f2-8bb1-69ae2e17f784
